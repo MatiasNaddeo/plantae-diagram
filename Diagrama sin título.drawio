@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-19T11:55:28.405Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="30UdJmhvU1kr-jFKjrgn" version="24.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-19T11:56:32.073Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="w7nWRoOISQeX782jB6Od" version="24.5.5" type="github">
   <diagram name="Page-1" id="V7OUVoj_RXxbM-umgp2J">
-    <mxGraphModel dx="22400" dy="8680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="15000" pageHeight="5000" math="0" shadow="0">
+    <mxGraphModel dx="3200" dy="1240" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="15000" pageHeight="5000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="40" y="40" width="1126.75" height="714.53" as="geometry" />
         </mxCell>
         <mxCell id="CvJrGB_U7q3WWLL0PLB2-2" value="Assets" style="childLayout=tableLayout;recursiveResize=0;strokeColor=#98bf21;fillColor=#A7C942;shadow=1;fontColor=#393C56;" vertex="1" parent="1">
-          <mxGeometry x="126.75" y="434.53" width="349.9999999999891" height="292" as="geometry" />
+          <mxGeometry x="126.75" y="424.53" width="349.9999999999891" height="292" as="geometry" />
         </mxCell>
         <mxCell id="CvJrGB_U7q3WWLL0PLB2-3" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;fontColor=#393C56;" vertex="1" parent="CvJrGB_U7q3WWLL0PLB2-2">
           <mxGeometry width="349.9999999999891" height="43" as="geometry" />
@@ -13152,27 +13152,27 @@
         </mxCell>
         <mxCell id="CvJrGB_U7q3WWLL0PLB2-2918" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#82b366;html=1;dashed=1;fillColor=#d5e8d4;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry x="-221.5" y="56.5" width="100" height="100" as="geometry">
-            <mxPoint x="236.74999999999636" y="540.5299999999986" as="sourcePoint" />
-            <mxPoint x="156.75" y="540.53" as="targetPoint" />
+            <mxPoint x="236.74999999999636" y="530.5299999999986" as="sourcePoint" />
+            <mxPoint x="156.75" y="530.53" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CvJrGB_U7q3WWLL0PLB2-2919" value="?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#393C56;" vertex="1" parent="1">
-          <mxGeometry x="180.74999999999636" y="692.27" width="30" height="30" as="geometry" />
+          <mxGeometry x="180.74999999999636" y="682.27" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CvJrGB_U7q3WWLL0PLB2-2920" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#82b366;strokeWidth=5;fillColor=#d5e8d4;" vertex="1" parent="1">
-          <mxGeometry x="185.74999999999636" y="572.5299999999991" width="20" height="20" as="geometry" />
+          <mxGeometry x="185.74999999999636" y="562.5299999999991" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="CvJrGB_U7q3WWLL0PLB2-2921" value="TEXTOTEXTO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=15;fillColor=none;strokeColor=none;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="139.8299999999981" y="608.53" width="111.84" height="30" as="geometry" />
+          <mxGeometry x="139.8299999999981" y="598.53" width="111.84" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CvJrGB_U7q3WWLL0PLB2-2922" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#82b366;html=1;fillColor=#d5e8d4;" edge="1" parent="1">
           <mxGeometry x="-221.5" y="56.5" width="100" height="100" as="geometry">
-            <mxPoint x="156.75" y="500.53" as="sourcePoint" />
-            <mxPoint x="236.75" y="500.53" as="targetPoint" />
+            <mxPoint x="156.75" y="490.53" as="sourcePoint" />
+            <mxPoint x="236.75" y="490.53" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CvJrGB_U7q3WWLL0PLB2-2923" value="(TEXTOTEXTO)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=15;fillColor=none;strokeColor=none;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="134.16999999999825" y="649.53" width="123.16" height="30" as="geometry" />
+          <mxGeometry x="134.16999999999825" y="639.53" width="123.16" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CvJrGB_U7q3WWLL0PLB2-2924" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Antes del filo puede haber&amp;nbsp;&lt;/font&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;superfilos&amp;nbsp; y/o subreinos&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#393C56;" vertex="1" parent="1">
           <mxGeometry x="941.75" y="193.92999999999998" width="200" height="50" as="geometry" />
@@ -13181,7 +13181,7 @@
           <mxGeometry x="921.75" y="248.89000000000001" width="240" height="50" as="geometry" />
         </mxCell>
         <mxCell id="CvJrGB_U7q3WWLL0PLB2-2926" value="&lt;h2 style=&quot;margin-top: 0px; line-height: 60%;&quot;&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;Aclaraciones&lt;/font&gt;&lt;/h2&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;p style=&quot;text-wrap: nowrap; line-height: 60%; font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Las fuentes utilizadas para la elaboración del trabajo incluyen Wikipedia en inglés,&amp;nbsp;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;text-wrap: nowrap; line-height: 60%; font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Wikipedia en español y el Registro Mundial de Especies Marinas (WoRMS).&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;text-wrap: nowrap; line-height: 60%; font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Es importante tener en cuenta que la información presentada&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;puede no ser 100% precisa.&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;text-wrap: nowrap; line-height: 60%; font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;La información que he recopilado es variable y puede actualizarse cada año.&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-wrap: nowrap; line-height: 60%; font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-wrap: nowrap; line-height: 60%; font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;En el diagrama, únicamente se muestran la información que consideré apropiada.&amp;nbsp;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;text-wrap: nowrap; line-height: 60%; font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;La clasificación está presentada desde la categoría de reino hasta la familia.&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-wrap: nowrap; line-height: 60%; font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Los géneros y las especies no están incluidos en este trabajo.&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;text-wrap: nowrap; line-height: 60%; font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;text-wrap: nowrap; line-height: 60%; font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Agradezco cualquier consejo o sugerencia para mejorar&amp;nbsp;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;text-wrap: nowrap; line-height: 60%; font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;el contenido y la presentación del trabajo.&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=default;verticalAlign=middle;align=left;" vertex="1" parent="1">
-          <mxGeometry x="126.75" y="114.13" width="580" height="309.1" as="geometry" />
+          <mxGeometry x="119.75" y="104.13" width="580" height="309.1" as="geometry" />
         </mxCell>
         <mxCell id="CvJrGB_U7q3WWLL0PLB2-2927" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Cualquier otro contenedor&amp;nbsp;&lt;/font&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;que no&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;pertenezca a&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;este&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;diagrama probablemente&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;sea un clado intermedio&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#393C56;" vertex="1" parent="1">
           <mxGeometry x="941.75" y="302.05999999999995" width="200" height="90" as="geometry" />
