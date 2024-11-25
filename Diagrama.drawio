@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.9.0">
   <diagram name="Page-1" id="V7OUVoj_RXxbM-umgp2J">
-    <mxGraphModel dx="3520" dy="1736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="15000" pageHeight="5000" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1760" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="15000" pageHeight="5000" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -162,13 +162,17 @@
             <mxGeometry x="11653.16" y="1565.0300000000002" width="230" height="230" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="CvJrGB_U7q3WWLL0PLB2-38" value="VASCULARES" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=22;fillColor=none;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="9730" y="1334.5300000000002" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="CvJrGB_U7q3WWLL0PLB2-39" value="NO VASCULARES" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=22;fillColor=none;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="3526.1199999999994" y="1488.4900000000002" width="120" height="30" as="geometry" />
-        </mxCell>
-        <object label="HEPATICAS" Características="(Marchantiophyta) Las hepáticas tienen dos formas principales: una estructura aplanada en forma de cinta llamada talo, o con pequeñas hojas dispuestas en filas a lo largo de un tallo rastrero. A menudo presentan estructuras especiales llamadas anteridióforos y arquegonióforos (donde se producen los gametos masculino y femenino). El esporofito es más simple y breve, suele estar protegido por una envoltura o involucro, y no tiene tallo elevado." Diferenciación="Si la planta es aplanada como una cinta (talosa) o tiene hojas dispuestas en dos filas con un esporofito menos evidente, es una hepática." id="CvJrGB_U7q3WWLL0PLB2-40">
+        <object label="VASCULARES" Características="Fase dominante esporofito (2n)." id="CvJrGB_U7q3WWLL0PLB2-38">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=22;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+            <mxGeometry x="9730" y="1334.5300000000002" width="120" height="30" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="NO VASCULARES" Características="Fase dominante gametofito (n)." id="CvJrGB_U7q3WWLL0PLB2-39">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=22;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+            <mxGeometry x="3526.1199999999994" y="1488.4900000000002" width="120" height="30" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="HEPATICAS" Características="(Marchantiophyta) tienen dos formas principales: una estructura aplanada en forma de cinta llamada talo, o con pequeñas hojas dispuestas en filas a lo largo de un tallo rastrero. A menudo presentan estructuras especiales llamadas anteridióforos y arquegonióforos (donde se producen los gametos masculino y femenino). El esporofito es más simple y breve, suele estar protegido por una envoltura o involucro, y no tiene tallo elevado." Diferenciación="Si la planta es aplanada como una cinta (talosa) o tiene hojas dispuestas en dos filas con un esporofito menos evidente, es una hepática." id="CvJrGB_U7q3WWLL0PLB2-40">
           <mxCell style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;align=center;strokeWidth=6;fillColor=#d5e8d4;strokeColor=#82b366;direction=south;rounded=1;dashed=1;" parent="1" vertex="1">
             <mxGeometry x="2036.8800000000015" y="2165.100000000001" width="170" height="158.5" as="geometry" />
           </mxCell>
@@ -323,18 +327,22 @@
             <mxPoint x="14490.849999999999" y="2468.609999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CvJrGB_U7q3WWLL0PLB2-72" value="MARCHANTIOPSIDA" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;shadow=0;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2542.5000000000005" y="2565.6400000000003" width="160" height="40" as="geometry" />
-        </mxCell>
+        <object label="MARCHANTIOPSIDA" Características="" Diferenciación="" id="CvJrGB_U7q3WWLL0PLB2-72">
+          <mxCell style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;shadow=0;html=1;" parent="1" vertex="1">
+            <mxGeometry x="2542.5000000000005" y="2565.6400000000003" width="160" height="40" as="geometry" />
+          </mxCell>
+        </object>
         <mxCell id="CvJrGB_U7q3WWLL0PLB2-73" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#82b366;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;fillColor=#d5e8d4;" parent="1" source="CvJrGB_U7q3WWLL0PLB2-40" target="CvJrGB_U7q3WWLL0PLB2-72" edge="1">
           <mxGeometry x="-221.5" y="56.5" width="100" height="100" as="geometry">
             <mxPoint x="3739.5000000000005" y="2297.9500000000007" as="sourcePoint" />
             <mxPoint x="3739.5000000000005" y="2370.9500000000007" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CvJrGB_U7q3WWLL0PLB2-74" value="HAPLIOMITRIOPSIDA" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;shadow=0;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1403.1199999999994" y="2411.3200000000006" width="140" height="40" as="geometry" />
-        </mxCell>
+        <object label="HAPLIOMITRIOPSIDA" Características="" Diferenciación="" id="CvJrGB_U7q3WWLL0PLB2-74">
+          <mxCell style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;shadow=0;html=1;" parent="1" vertex="1">
+            <mxGeometry x="1403.1199999999994" y="2411.3200000000006" width="140" height="40" as="geometry" />
+          </mxCell>
+        </object>
         <mxCell id="CvJrGB_U7q3WWLL0PLB2-75" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#82b366;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;fillColor=#d5e8d4;" parent="1" source="CvJrGB_U7q3WWLL0PLB2-40" target="CvJrGB_U7q3WWLL0PLB2-74" edge="1">
           <mxGeometry x="-221.5" y="56.5" width="100" height="100" as="geometry">
             <mxPoint x="3114.5000000000005" y="2318.9500000000007" as="sourcePoint" />
@@ -1695,9 +1703,11 @@
             <mxPoint x="24476.75" y="3096.9700000000003" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CvJrGB_U7q3WWLL0PLB2-383" value="JUNGERMANNIOPSIDA" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;shadow=0;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1571.8800000000015" y="2653.870000000001" width="160" height="40" as="geometry" />
-        </mxCell>
+        <object label="JUNGERMANNIOPSIDA" Características="" Diferenciación="" id="CvJrGB_U7q3WWLL0PLB2-383">
+          <mxCell style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;shadow=0;html=1;" parent="1" vertex="1">
+            <mxGeometry x="1571.8800000000015" y="2653.870000000001" width="160" height="40" as="geometry" />
+          </mxCell>
+        </object>
         <mxCell id="CvJrGB_U7q3WWLL0PLB2-384" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#82b366;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#d5e8d4;" parent="1" source="CvJrGB_U7q3WWLL0PLB2-40" target="CvJrGB_U7q3WWLL0PLB2-383" edge="1">
           <mxGeometry x="-221.5" y="56.5" width="100" height="100" as="geometry">
             <mxPoint x="2684.5000000000005" y="2286.4500000000007" as="sourcePoint" />
