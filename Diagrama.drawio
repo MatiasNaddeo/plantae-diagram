@@ -979,9 +979,11 @@
             <mxPoint x="15691.33" y="2538.2899999999986" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CvJrGB_U7q3WWLL0PLB2-215" value="MAGNOLIDAS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=15;fillColor=none;strokeColor=none;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="15292.36" y="2518.4599999999987" width="185" height="30" as="geometry" />
-        </mxCell>
+        <object label="MAGNOLIDAS" Características="" Diferenciación="" id="CvJrGB_U7q3WWLL0PLB2-215">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=15;fillColor=none;strokeColor=none;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+            <mxGeometry x="15292.36" y="2518.4599999999987" width="185" height="30" as="geometry" />
+          </mxCell>
+        </object>
         <mxCell id="CvJrGB_U7q3WWLL0PLB2-219" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#82b366;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;exitX=0.392;exitY=1.051;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="ohZdkgHMvIkcHxuLQ3zA-20" target="CvJrGB_U7q3WWLL0PLB2-581" edge="1">
           <mxGeometry x="-221.5" y="56.5" width="100" height="100" as="geometry">
             <mxPoint x="15378.25" y="2710" as="sourcePoint" />
@@ -13743,9 +13745,11 @@
         <mxCell id="CvJrGB_U7q3WWLL0PLB2-3050" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 15px; background-color: initial;&quot;&gt;Hay ocasiones en las que&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;background-color: initial; font-size: 15px;&quot;&gt;se&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: initial; font-size: 15px;&quot;&gt;divide en dos ramas&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;únicamente por motivos &lt;font style=&quot;font-size: 15px;&quot;&gt;visuales&lt;/font&gt;.&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Si no se indica con nombres,&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;no hay diferencia.&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#393C56;" parent="1" vertex="1">
           <mxGeometry x="916.75" y="400.06999999999994" width="250" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="8pBWvPm9P9CJU6DtyxyS-1" value="ANGIOSPERMAS BASALES (ANA - ANITA)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;fillColor=none;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="11775.16" y="2466.66" width="210.25" height="30" as="geometry" />
-        </mxCell>
+        <object label="ANGIOSPERMAS BASALES (ANA - ANITA)" Características="" Diferenciación="" id="8pBWvPm9P9CJU6DtyxyS-1">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+            <mxGeometry x="11775.16" y="2466.66" width="210.25" height="30" as="geometry" />
+          </mxCell>
+        </object>
         <mxCell id="ohZdkgHMvIkcHxuLQ3zA-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#82b366;strokeWidth=5;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="3596.6199999999994" y="1561.0299999999997" width="20" height="20" as="geometry" />
         </mxCell>
@@ -13783,9 +13787,11 @@
         <mxCell id="ohZdkgHMvIkcHxuLQ3zA-11" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#82b366;strokeWidth=5;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="14477.849999999999" y="2476.6599999999994" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ohZdkgHMvIkcHxuLQ3zA-12" value="MESANGIOSPERMAS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=15;fillColor=none;strokeColor=none;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="14333.600000000002" y="2420.909999999999" width="235" height="30" as="geometry" />
-        </mxCell>
+        <object label="MESANGIOSPERMAS" Características="" Diferenciación="" id="ohZdkgHMvIkcHxuLQ3zA-12">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=15;fillColor=none;strokeColor=none;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+            <mxGeometry x="14333.600000000002" y="2420.909999999999" width="235" height="30" as="geometry" />
+          </mxCell>
+        </object>
         <mxCell id="ohZdkgHMvIkcHxuLQ3zA-13" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#82b366;strokeWidth=5;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="11860" y="2519.8199999999993" width="20" height="20" as="geometry" />
         </mxCell>
@@ -13802,9 +13808,11 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ohZdkgHMvIkcHxuLQ3zA-18" value="&lt;span style=&quot;font-size: 15px; text-wrap: wrap;&quot;&gt;MONOCOTILEDONEAS&lt;/span&gt;" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;shadow=0;html=1;" parent="1" vertex="1">
-          <mxGeometry x="13743.36" y="2940.6499999999996" width="175.89" height="40" as="geometry" />
-        </mxCell>
+        <object label="&lt;span style=&quot;font-size: 15px; text-wrap: wrap;&quot;&gt;MONOCOTILEDONEAS&lt;/span&gt;" Características="" Diferenciación="" id="ohZdkgHMvIkcHxuLQ3zA-18">
+          <mxCell style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;shadow=0;html=1;" parent="1" vertex="1">
+            <mxGeometry x="13743.36" y="2940.6499999999996" width="175.89" height="40" as="geometry" />
+          </mxCell>
+        </object>
         <mxCell id="ohZdkgHMvIkcHxuLQ3zA-20" value="¿--------?" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;shadow=0;html=1;" parent="1" vertex="1">
           <mxGeometry x="15317.829999999998" y="2636.2800000000007" width="120" height="40" as="geometry" />
         </mxCell>
@@ -13832,9 +13840,11 @@
             <mxPoint x="14360.019999999997" y="2885.99" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ohZdkgHMvIkcHxuLQ3zA-28" value="&lt;span style=&quot;font-size: 15px; text-wrap: wrap;&quot;&gt;EUDICOTILEDONEAS&lt;/span&gt;" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;shadow=0;html=1;" parent="1" vertex="1">
-          <mxGeometry x="15315.93" y="3265.16" width="174.88" height="40" as="geometry" />
-        </mxCell>
+        <object label="&lt;span style=&quot;font-size: 15px; text-wrap: wrap;&quot;&gt;EUDICOTILEDONEAS&lt;/span&gt;" Características="" Diferenciación="" id="ohZdkgHMvIkcHxuLQ3zA-28">
+          <mxCell style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;shadow=0;html=1;" parent="1" vertex="1">
+            <mxGeometry x="15315.93" y="3265.16" width="174.88" height="40" as="geometry" />
+          </mxCell>
+        </object>
         <mxCell id="ohZdkgHMvIkcHxuLQ3zA-30" value="MONOCOTILEDONEAS LILIOIDES" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=15;fillColor=none;strokeColor=none;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="13143.139999999996" y="3126.6499999999987" width="187.5" height="30" as="geometry" />
         </mxCell>
@@ -13907,6 +13917,21 @@
         </mxCell>
         <mxCell id="ohZdkgHMvIkcHxuLQ3zA-59" value="https://bio.libretexts.org/Bookshelves/Introductory_and_General_Biology/Map%3A_Raven_Biology_12th_Edition/28%3A_Protists/28.06%3A_Characteristics_of_Archaeplastidia" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=11;align=center;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="20" y="1931" width="870" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qVzjL8WDkd6wNWUhJIa9-1" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="11936.27" y="2364.16" width="82.23" height="72.82" as="geometry" />
+        </mxCell>
+        <mxCell id="qVzjL8WDkd6wNWUhJIa9-3" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="13787.11" y="2844.93" width="82.23" height="72.82" as="geometry" />
+        </mxCell>
+        <mxCell id="qVzjL8WDkd6wNWUhJIa9-4" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="14456.12" y="2329.5499999999997" width="82.23" height="72.82" as="geometry" />
+        </mxCell>
+        <mxCell id="qVzjL8WDkd6wNWUhJIa9-5" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="15303.37" y="2428.2099999999996" width="82.23" height="72.82" as="geometry" />
+        </mxCell>
+        <mxCell id="qVzjL8WDkd6wNWUhJIa9-6" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="15455.83" y="3190.0599999999995" width="82.23" height="72.82" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
