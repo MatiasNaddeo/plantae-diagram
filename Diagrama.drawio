@@ -250,12 +250,12 @@
             <mxPoint x="8365.5" y="2748.17" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <object label="ANGIOSPERMAS" Características="La semilla está protegida dentro de un ovario que, tras la fertilización, madura y se convierte en un fruto. Este fruto protege la semilla y facilita su dispersión, ya sea por animales, viento o agua." Diferenciación="Tienen fruto y flor." id="CvJrGB_U7q3WWLL0PLB2-56">
+        <object label="ANGIOSPERMAS" Características="La semilla está protegida dentro de un ovario que, tras la fertilización, madura y se convierte en un fruto. Este fruto protege la semilla y facilita su dispersión, ya sea por animales, viento o agua. Principalmente hermafroditas." Diferenciación="Tienen fruto y flor." id="CvJrGB_U7q3WWLL0PLB2-56">
           <mxCell style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;align=center;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;direction=south;rounded=1;" parent="1" vertex="1">
             <mxGeometry x="13000.84" y="2000.0000000000005" width="170" height="158.5" as="geometry" />
           </mxCell>
         </object>
-        <object label="GIMNOSPERMAS" Características="Tienen la semilla desnuda, sus semillas no están encerradas dentro de un ovario o fruto. Las semillas se desarrollan sobre superficies expuestas, como las escamas de los conos o estructuras similares" Diferenciación="Sin fruto. Tienen adaptaciones como hojas en forma de aguja para sobrevivir en climas fríos y secos." id="CvJrGB_U7q3WWLL0PLB2-57">
+        <object label="GIMNOSPERMAS" Características="Tienen la semilla desnuda, sus semillas no están encerradas dentro de un ovario o fruto. Las semillas se desarrollan sobre superficies expuestas, como las escamas de los conos o estructuras similares. Ninguna es hermafrodita y suelen ser dioicas." Diferenciación="Sin fruto. Tienen adaptaciones como hojas en forma de aguja para sobrevivir en climas fríos y secos." id="CvJrGB_U7q3WWLL0PLB2-57">
           <mxCell style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;align=center;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;direction=south;rounded=1;" parent="1" vertex="1">
             <mxGeometry x="10373.25" y="2040.0000000000005" width="170" height="158.5" as="geometry" />
           </mxCell>
@@ -13730,7 +13730,7 @@
             <mxGeometry x="10213.25" y="2409.9700000000003" width="190" height="190" as="geometry" />
           </mxCell>
         </object>
-        <object label="GNETOPHYTA" Características="Polinización tanto por viento como por insectos. Poseen vasos verdaderos en el xilema, una característica similar a las angiospermas." Diferenciación="A veces se parecen más a las angiospermas que a otras gimnospermas. Tienen estructuras reproductivas parecidas a flores, pero no son angiospermas." id="ohZdkgHMvIkcHxuLQ3zA-8">
+        <object label="GNETOPHYTA" Características="Polinización tanto por viento como por insectos. Poseen vasos verdaderos en el xilema, una característica similar a las angiospermas. Pueden ser monoicas o dioicas" Diferenciación="A veces se parecen más a las angiospermas que a otras gimnospermas. Tienen estructuras reproductivas parecidas a flores, pero no son angiospermas." id="ohZdkgHMvIkcHxuLQ3zA-8">
           <mxCell style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;align=center;strokeWidth=6;fillColor=#d5e8d4;strokeColor=#82b366;direction=south;rounded=1;dashed=1;" parent="1" vertex="1">
             <mxGeometry x="10783.619999999999" y="2183.3400000000015" width="190" height="190" as="geometry" />
           </mxCell>
@@ -13741,7 +13741,7 @@
             <mxPoint x="12834.970000000001" y="2607.2400000000007" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <object label="MAGNOLIOPHYTA" Características="La semilla está protegida dentro de un ovario que, tras la fertilización, madura y se convierte en un fruto. Este fruto protege la semilla y facilita su dispersión, ya sea por animales, viento o agua." Diferenciación="Tienen fruto y flor." id="ohZdkgHMvIkcHxuLQ3zA-10">
+        <object label="MAGNOLIOPHYTA" id="ohZdkgHMvIkcHxuLQ3zA-10">
           <mxCell style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;align=center;strokeWidth=6;fillColor=#d5e8d4;strokeColor=#82b366;direction=south;rounded=1;dashed=1;" parent="1" vertex="1">
             <mxGeometry x="12980.84" y="2212.510000000001" width="210" height="210" as="geometry" />
           </mxCell>
