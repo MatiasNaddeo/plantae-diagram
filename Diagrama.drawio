@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.9.0">
   <diagram name="Page-1" id="V7OUVoj_RXxbM-umgp2J">
-    <mxGraphModel dx="838" dy="413" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="15000" pageHeight="5000" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2514" dy="1240" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="15000" pageHeight="5000" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -236,12 +236,12 @@
             <mxPoint x="7808.5" y="2126.91" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <object label="EQUISETOS" Características="" Diferenciación="" id="CvJrGB_U7q3WWLL0PLB2-52">
+        <object label="EQUISETOS" Características="(Equisetopsida) Plantas con tallos huecos y segmentados, ricos en sílice, que realizan la fotosíntesis. Sus hojas están muy reducidas y dispuestas en verticilos alrededor de los nudos. Producen esporas con elaters." Diferenciación="Fácilmente reconocibles por sus tallos articulados y apariencia rígida. Suelen encontrarse cerca de áreas húmedas o pantanosas." id="CvJrGB_U7q3WWLL0PLB2-52">
           <mxCell style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;shadow=0;html=1;" parent="1" vertex="1">
             <mxGeometry x="8130" y="2588.46" width="120" height="40" as="geometry" />
           </mxCell>
         </object>
-        <object label="HELECHOS" Características="" Diferenciación="" id="CvJrGB_U7q3WWLL0PLB2-53">
+        <object label="HELECHOS" Características="(Polypodiopsida) Plantas con frondas grandes y divididas (megáfilos) que emergen enrolladas (circinación). Los esporangios se agrupan en soros en la parte inferior de las frondas. Algunas especies desarrollan rizomas subterráneos." Diferenciación="Reconocibles por sus frondas amplias y su desarrollo en espiral. Suelen habitar bosques húmedos o áreas tropicales." id="CvJrGB_U7q3WWLL0PLB2-53">
           <mxCell style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;shadow=0;html=1;" parent="1" vertex="1">
             <mxGeometry x="8669" y="2588.46" width="120" height="40" as="geometry" />
           </mxCell>
