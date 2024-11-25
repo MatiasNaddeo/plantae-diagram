@@ -146,18 +146,22 @@
         <mxCell id="CvJrGB_U7q3WWLL0PLB2-33" value="ALGAS ROJAS" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;align=center;strokeWidth=6;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="21946.75" y="2082.1600000000008" width="230" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="CvJrGB_U7q3WWLL0PLB2-35" value="PTERIDOFITAS" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;align=center;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;direction=south;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="7760" y="1564.0300000000002" width="230" height="230" as="geometry" />
-        </mxCell>
+        <object label="PTERIDOFITAS" Características="Los gametofitos son independientes y pequeños (prótalos) que surgen de esporas y producen gametos. El esporofito crece a partir del gametofito femenino fecundado. La fecundación depende del agua, y puede ocurrir en el propio gametofito o en otro cercano." Diferenciación="Liberan esporas (n)" id="CvJrGB_U7q3WWLL0PLB2-35">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;align=center;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;direction=south;rounded=1;" parent="1" vertex="1">
+            <mxGeometry x="7760" y="1564.0300000000002" width="230" height="230" as="geometry" />
+          </mxCell>
+        </object>
         <mxCell id="CvJrGB_U7q3WWLL0PLB2-36" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#82b366;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#d5e8d4;" parent="1" source="CvJrGB_U7q3WWLL0PLB2-723" target="CvJrGB_U7q3WWLL0PLB2-35" edge="1">
           <mxGeometry x="-221.5" y="56.5" width="100" height="100" as="geometry">
             <mxPoint x="8368.5" y="1490.7700000000004" as="sourcePoint" />
             <mxPoint x="8172" y="1632.2700000000004" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CvJrGB_U7q3WWLL0PLB2-37" value="ESPERMATOFITAS" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;align=center;strokeWidth=6;fillColor=#d5e8d4;strokeColor=#82b366;direction=south;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="11653.16" y="1565.0300000000002" width="230" height="230" as="geometry" />
-        </mxCell>
+        <object label="ESPERMATOFITAS" Características="Los gametofitos son muy reducidos y están protegidos dentro del esporofito. El gametofito masculino (grano de polen) fertiliza al gametofito femenino (saco embrionario), y de esta unión se forma una semilla, que es la base del nuevo esporofito." Diferenciación="Liberan semillas. (2n)" id="CvJrGB_U7q3WWLL0PLB2-37">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;align=center;strokeWidth=6;fillColor=#d5e8d4;strokeColor=#82b366;direction=south;rounded=1;" parent="1" vertex="1">
+            <mxGeometry x="11653.16" y="1565.0300000000002" width="230" height="230" as="geometry" />
+          </mxCell>
+        </object>
         <mxCell id="CvJrGB_U7q3WWLL0PLB2-38" value="VASCULARES" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=22;fillColor=none;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="9730" y="1334.5300000000002" width="120" height="30" as="geometry" />
         </mxCell>
@@ -174,7 +178,7 @@
             <mxGeometry x="3521.6200000000013" y="2164.5900000000006" width="170" height="158.5" as="geometry" />
           </mxCell>
         </object>
-        <object label="MUSGOS" Nota="asdkjaskljdklaksjlkdjalksjlkjdlkajskljdlkjaslkjkldjlkasjdjkaksjdlkjalksjd" id="CvJrGB_U7q3WWLL0PLB2-42">
+        <object label="MUSGOS" Características=" Los musgos tienen una estructura más vertical con un &quot;tallo&quot; central y pequeñas &quot;hojas&quot; dispuestas en espiral. No tienen verdaderas raíces, sino estructuras llamadas rizoides que los ayudan a anclarse al suelo. Su esporofito (la fase diploide) crece a partir del gametofito (la fase haploide) y generalmente consiste en un tallo delgado con una cápsula en la punta donde se forman las esporas." Diferenciación="Si la planta tiene estructuras pequeñas y verticales con hojas en espiral y un esporofito con cápsula elevada, es un musgo." id="CvJrGB_U7q3WWLL0PLB2-42">
           <mxCell style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;align=center;strokeWidth=6;fillColor=#d5e8d4;strokeColor=#82b366;direction=south;rounded=1;dashed=1;" parent="1" vertex="1">
             <mxGeometry x="5252.3499999999985" y="2164.4300000000007" width="170" height="158.5" as="geometry" />
           </mxCell>
@@ -197,18 +201,22 @@
             <mxPoint x="6887" y="1904.3100000000004" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CvJrGB_U7q3WWLL0PLB2-46" value="LICOPHYTA" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;align=center;strokeWidth=6;fillColor=#d5e8d4;strokeColor=#82b366;direction=south;rounded=1;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="7340" y="2169.16" width="170" height="158.5" as="geometry" />
-        </mxCell>
+        <object label="LICOPHYTA" Características="Tiene micrófilos, hojas simples con una sola vena. Esto se considera un rasgo primitivo." Diferenciación="Las licofitas suelen ser plantas más pequeñas y prefieren hábitats húmedos y sombreados. Algunas especies, como los isoetes, son acuáticas." id="CvJrGB_U7q3WWLL0PLB2-46">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;align=center;strokeWidth=6;fillColor=#d5e8d4;strokeColor=#82b366;direction=south;rounded=1;dashed=1;" parent="1" vertex="1">
+            <mxGeometry x="7340" y="2169.16" width="170" height="158.5" as="geometry" />
+          </mxCell>
+        </object>
         <mxCell id="CvJrGB_U7q3WWLL0PLB2-47" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#82b366;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=-0.016;entryY=0.561;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;" parent="1" source="CvJrGB_U7q3WWLL0PLB2-35" target="CvJrGB_U7q3WWLL0PLB2-46" edge="1">
           <mxGeometry x="-221.5" y="56.5" width="100" height="100" as="geometry">
             <mxPoint x="4956.43" y="2093.26" as="sourcePoint" />
             <mxPoint x="5066.43" y="2216.26" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CvJrGB_U7q3WWLL0PLB2-48" value="MONILOPHYTA" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;align=center;strokeWidth=6;fillColor=#d5e8d4;strokeColor=#82b366;direction=south;rounded=1;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="8237.5" y="2168.3" width="170" height="158.5" as="geometry" />
-        </mxCell>
+        <object label="MONILOPHYTA" Características="Tiene megáfilos, que son hojas más complejas con un sistema de venas ramificadas." Diferenciación="Son mucho más comunes. Pueden ser más grandes y se encuentran en una mayor variedad de hábitats, incluyendo bosques tropicales y templados." id="CvJrGB_U7q3WWLL0PLB2-48">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;align=center;strokeWidth=6;fillColor=#d5e8d4;strokeColor=#82b366;direction=south;rounded=1;dashed=1;" parent="1" vertex="1">
+            <mxGeometry x="8237.5" y="2168.3" width="170" height="158.5" as="geometry" />
+          </mxCell>
+        </object>
         <mxCell id="CvJrGB_U7q3WWLL0PLB2-49" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#82b366;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;" parent="1" source="CvJrGB_U7q3WWLL0PLB2-35" target="CvJrGB_U7q3WWLL0PLB2-48" edge="1">
           <mxGeometry x="-221.5" y="56.5" width="100" height="100" as="geometry">
             <mxPoint x="5326.43" y="2134.26" as="sourcePoint" />
@@ -242,12 +250,16 @@
             <mxPoint x="8365.5" y="2748.17" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CvJrGB_U7q3WWLL0PLB2-56" value="ANGIOSPERMAS" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;align=center;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;direction=south;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="13000.84" y="2000.0000000000005" width="170" height="158.5" as="geometry" />
-        </mxCell>
-        <mxCell id="CvJrGB_U7q3WWLL0PLB2-57" value="GIMNOSPERMAS" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;align=center;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;direction=south;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="10373.25" y="2040.0000000000005" width="170" height="158.5" as="geometry" />
-        </mxCell>
+        <object label="ANGIOSPERMAS" Características="La semilla está protegida dentro de un ovario que, tras la fertilización, madura y se convierte en un fruto. Este fruto protege la semilla y facilita su dispersión, ya sea por animales, viento o agua." Diferenciación="Tienen fruto y flor." id="CvJrGB_U7q3WWLL0PLB2-56">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;align=center;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;direction=south;rounded=1;" parent="1" vertex="1">
+            <mxGeometry x="13000.84" y="2000.0000000000005" width="170" height="158.5" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="GIMNOSPERMAS" Características="Tienen la semilla desnuda, sus semillas no están encerradas dentro de un ovario o fruto. Las semillas se desarrollan sobre superficies expuestas, como las escamas de los conos o estructuras similares" Diferenciación="Sin fruto. Tienen adaptaciones como hojas en forma de aguja para sobrevivir en climas fríos y secos." id="CvJrGB_U7q3WWLL0PLB2-57">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;align=center;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;direction=south;rounded=1;" parent="1" vertex="1">
+            <mxGeometry x="10373.25" y="2040.0000000000005" width="170" height="158.5" as="geometry" />
+          </mxCell>
+        </object>
         <mxCell id="CvJrGB_U7q3WWLL0PLB2-58" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#82b366;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;" parent="1" source="CvJrGB_U7q3WWLL0PLB2-37" target="CvJrGB_U7q3WWLL0PLB2-57" edge="1">
           <mxGeometry x="-221.5" y="56.5" width="100" height="100" as="geometry">
             <mxPoint x="8558" y="1723.7700000000004" as="sourcePoint" />
@@ -13721,9 +13733,11 @@
             <mxPoint x="12834.970000000001" y="2607.2400000000007" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ohZdkgHMvIkcHxuLQ3zA-10" value="MAGNOLIOPHYTA" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;align=center;strokeWidth=6;fillColor=#d5e8d4;strokeColor=#82b366;direction=south;rounded=1;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="12980.84" y="2212.510000000001" width="210" height="210" as="geometry" />
-        </mxCell>
+        <object label="MAGNOLIOPHYTA" Características="La semilla está protegida dentro de un ovario que, tras la fertilización, madura y se convierte en un fruto. Este fruto protege la semilla y facilita su dispersión, ya sea por animales, viento o agua." Diferenciación="Tienen fruto y flor." id="ohZdkgHMvIkcHxuLQ3zA-10">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;align=center;strokeWidth=6;fillColor=#d5e8d4;strokeColor=#82b366;direction=south;rounded=1;dashed=1;" parent="1" vertex="1">
+            <mxGeometry x="12980.84" y="2212.510000000001" width="210" height="210" as="geometry" />
+          </mxCell>
+        </object>
         <mxCell id="ohZdkgHMvIkcHxuLQ3zA-11" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#82b366;strokeWidth=5;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="14477.849999999999" y="2476.6599999999994" width="20" height="20" as="geometry" />
         </mxCell>
