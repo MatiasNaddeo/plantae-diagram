@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.9.0">
   <diagram name="Page-1" id="V7OUVoj_RXxbM-umgp2J">
-    <mxGraphModel dx="1760" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="15000" pageHeight="5000" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="838" dy="413" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="15000" pageHeight="5000" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -227,7 +227,7 @@
             <mxPoint x="5276.43" y="2245.26" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CvJrGB_U7q3WWLL0PLB2-50" value="LICOPSIDA" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;shadow=0;html=1;" parent="1" vertex="1">
+        <mxCell id="CvJrGB_U7q3WWLL0PLB2-50" value="LICOPODIOPSIDA" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;shadow=0;html=1;" parent="1" vertex="1">
           <mxGeometry x="7365" y="2353.41" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CvJrGB_U7q3WWLL0PLB2-51" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#82b366;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;" parent="1" source="CvJrGB_U7q3WWLL0PLB2-46" target="CvJrGB_U7q3WWLL0PLB2-50" edge="1">
@@ -236,12 +236,16 @@
             <mxPoint x="7808.5" y="2126.91" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CvJrGB_U7q3WWLL0PLB2-52" value="EQUISETOS" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;shadow=0;html=1;" parent="1" vertex="1">
-          <mxGeometry x="8130" y="2588.46" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="CvJrGB_U7q3WWLL0PLB2-53" value="HELECHOS" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;shadow=0;html=1;" parent="1" vertex="1">
-          <mxGeometry x="8669" y="2588.46" width="120" height="40" as="geometry" />
-        </mxCell>
+        <object label="EQUISETOS" Características="" Diferenciación="" id="CvJrGB_U7q3WWLL0PLB2-52">
+          <mxCell style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;shadow=0;html=1;" parent="1" vertex="1">
+            <mxGeometry x="8130" y="2588.46" width="120" height="40" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="HELECHOS" Características="" Diferenciación="" id="CvJrGB_U7q3WWLL0PLB2-53">
+          <mxCell style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;shadow=0;html=1;" parent="1" vertex="1">
+            <mxGeometry x="8669" y="2588.46" width="120" height="40" as="geometry" />
+          </mxCell>
+        </object>
         <mxCell id="CvJrGB_U7q3WWLL0PLB2-54" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#82b366;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;" parent="1" source="CvJrGB_U7q3WWLL0PLB2-48" target="CvJrGB_U7q3WWLL0PLB2-52" edge="1">
           <mxGeometry x="-221.5" y="56.5" width="100" height="100" as="geometry">
             <mxPoint x="8190.5" y="2664.17" as="sourcePoint" />
@@ -327,7 +331,7 @@
             <mxPoint x="14490.849999999999" y="2468.609999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <object label="MARCHANTIOPSIDA" Características="" Diferenciación="" id="CvJrGB_U7q3WWLL0PLB2-72">
+        <object label="MARCHANTIOPSIDA" Características="Hepáticas talosas complejas con tejidos diferenciados, cámaras de aire con poros visibles y estructuras reproductivas elevadas (arquegonióforos y anteridióforos). Suelen producir gemas en conceptáculos para reproducción asexual." Diferenciación="Talos anchos con poros visibles en la superficie y estructuras elevadas en forma de paraguas para reproducción, como en Marchantia." id="CvJrGB_U7q3WWLL0PLB2-72">
           <mxCell style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;shadow=0;html=1;" parent="1" vertex="1">
             <mxGeometry x="2542.5000000000005" y="2565.6400000000003" width="160" height="40" as="geometry" />
           </mxCell>
@@ -338,7 +342,7 @@
             <mxPoint x="3739.5000000000005" y="2370.9500000000007" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <object label="HAPLIOMITRIOPSIDA" Características="" Diferenciación="" id="CvJrGB_U7q3WWLL0PLB2-74">
+        <object label="HAPLIOMITRIOPSIDA" Características="Es la clase más primitiva de las hepáticas, con talos simples y sin cámaras de aire ni poros visibles. Sus células carecen de aceites esenciales en comparación con las otras clases. Presentan rizoides unicelulares y gametangios que no están protegidos por estructuras especializadas." Diferenciación="Talos muy simples, sin estructuras especializadas visibles ni poros. Aspecto más rudimentario, típico de ambientes húmedos extremos." id="CvJrGB_U7q3WWLL0PLB2-74">
           <mxCell style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;shadow=0;html=1;" parent="1" vertex="1">
             <mxGeometry x="1403.1199999999994" y="2411.3200000000006" width="140" height="40" as="geometry" />
           </mxCell>
@@ -349,18 +353,22 @@
             <mxPoint x="3139.5000000000005" y="2392.9500000000007" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CvJrGB_U7q3WWLL0PLB2-76" value="LEIOSPOROCEROTOPSIDA" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;shadow=0;html=1;" parent="1" vertex="1">
-          <mxGeometry x="3278.440000000001" y="2402.5100000000007" width="173.13" height="51.5" as="geometry" />
-        </mxCell>
+        <object label="LEIOSPOROCEROTOPSIDA" Características="Es una clase primitiva de antoceros, con esporangios más simples y poco diferenciados. Carecen de estructuras especializadas para la liberación de esporas, y su pared celular es menos resistente en comparación con los esporangios de Anthocerotopsida. El gametofito es más homogéneo, sin tejidos diferenciados ni cavidades mucilaginosas con cianobacterias." Diferenciación="Se diferencian por su simplicidad; los esporangios son lisos (sin zonas especializadas para liberar esporas) y los gametofitos tienen menos interacciones simbióticas visibles." id="CvJrGB_U7q3WWLL0PLB2-76">
+          <mxCell style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;shadow=0;html=1;" parent="1" vertex="1">
+            <mxGeometry x="3278.440000000001" y="2402.5100000000007" width="173.13" height="51.5" as="geometry" />
+          </mxCell>
+        </object>
         <mxCell id="CvJrGB_U7q3WWLL0PLB2-77" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#82b366;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;fillColor=#d5e8d4;" parent="1" source="CvJrGB_U7q3WWLL0PLB2-41" target="CvJrGB_U7q3WWLL0PLB2-76" edge="1">
           <mxGeometry x="-221.5" y="56.5" width="100" height="100" as="geometry">
             <mxPoint x="3847.5000000000005" y="2689.040000000001" as="sourcePoint" />
             <mxPoint x="3872.5000000000005" y="2763.0400000000013" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CvJrGB_U7q3WWLL0PLB2-78" value="ANTHOCEROTOPSIDA" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;shadow=0;html=1;" parent="1" vertex="1">
-          <mxGeometry x="3762.440000000001" y="2402.370000000001" width="150" height="53" as="geometry" />
-        </mxCell>
+        <object label="ANTHOCEROTOPSIDA" Características="Clase más avanzada y común de antoceros. Tienen esporangios alargados, con tejidos especializados para la dispersión de esporas (zonas de dehiscencia). Su gametofito suele contener cavidades mucilaginosas llenas de cianobacterias simbióticas, como Nostoc, que les proporcionan nitrógeno." Diferenciación="Esporangios largos y bien diferenciados con zonas de apertura visibles, gametofitos con cavidades mucilaginosas (a menudo azuladas por las cianobacterias)." id="CvJrGB_U7q3WWLL0PLB2-78">
+          <mxCell style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;shadow=0;html=1;" parent="1" vertex="1">
+            <mxGeometry x="3762.440000000001" y="2402.370000000001" width="150" height="53" as="geometry" />
+          </mxCell>
+        </object>
         <mxCell id="CvJrGB_U7q3WWLL0PLB2-79" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#82b366;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;fillColor=#d5e8d4;" parent="1" source="CvJrGB_U7q3WWLL0PLB2-41" target="CvJrGB_U7q3WWLL0PLB2-78" edge="1">
           <mxGeometry x="-221.5" y="56.5" width="100" height="100" as="geometry">
             <mxPoint x="3957.5000000000005" y="2683.040000000001" as="sourcePoint" />
@@ -373,30 +381,38 @@
             <mxPoint x="5369.98" y="2565.770000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CvJrGB_U7q3WWLL0PLB2-81" value="ANDREAEOBRYOPSIDA" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;shadow=0;html=1;" parent="1" vertex="1">
-          <mxGeometry x="5213.869999999999" y="2696.3300000000013" width="151.5" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="CvJrGB_U7q3WWLL0PLB2-82" value="OEDIPODIOPSIDA" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;shadow=0;html=1;" parent="1" vertex="1">
-          <mxGeometry x="5692.5" y="2366.59" width="120" height="40" as="geometry" />
-        </mxCell>
+        <object label="ANDREAEOBRYOPSIDA" Características="Similares a Andreaeopsida, pero con gametofitos más parecidos a los de musgos típicos. Es un grupo muy raro y restringido." Diferenciación=" Parecen híbridos entre musgos normales y los musgos de granito." id="CvJrGB_U7q3WWLL0PLB2-81">
+          <mxCell style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;shadow=0;html=1;" parent="1" vertex="1">
+            <mxGeometry x="5213.869999999999" y="2696.3300000000013" width="151.5" height="40" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="OEDIPODIOPSIDA" Características="Clase muy pequeña y rara, con esporangios esféricos y un capuchón distintivo." Diferenciación="Reconocibles por su forma esférica y su distribución extremadamente limitada." id="CvJrGB_U7q3WWLL0PLB2-82">
+          <mxCell style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;shadow=0;html=1;" parent="1" vertex="1">
+            <mxGeometry x="5692.5" y="2366.59" width="120" height="40" as="geometry" />
+          </mxCell>
+        </object>
         <mxCell id="CvJrGB_U7q3WWLL0PLB2-83" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#82b366;html=1;exitX=0.757;exitY=0.048;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;exitPerimeter=0;" parent="1" source="CvJrGB_U7q3WWLL0PLB2-42" target="CvJrGB_U7q3WWLL0PLB2-82" edge="1">
           <mxGeometry x="-221.5" y="56.5" width="100" height="100" as="geometry">
             <mxPoint x="5395.98" y="2511.770000000001" as="sourcePoint" />
             <mxPoint x="5379.98" y="2530.770000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CvJrGB_U7q3WWLL0PLB2-84" value="BRYOPSIDA" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;shadow=0;html=1;" parent="1" vertex="1">
-          <mxGeometry x="5372.119999999999" y="2895.4900000000002" width="120" height="40" as="geometry" />
-        </mxCell>
+        <object label="BRYOPSIDA" Características="Clase más grande y diversa. Tienen hojas con una sola capa celular y esporangios típicos con un opérculo (tapa)." Diferenciación="Musgos comunes; esporangios con tapa y gametofitos clásicos." id="CvJrGB_U7q3WWLL0PLB2-84">
+          <mxCell style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;shadow=0;html=1;" parent="1" vertex="1">
+            <mxGeometry x="5372.119999999999" y="2895.4900000000002" width="120" height="40" as="geometry" />
+          </mxCell>
+        </object>
         <mxCell id="CvJrGB_U7q3WWLL0PLB2-85" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#82b366;html=1;entryX=0.473;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;exitX=1;exitY=0.393;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="CvJrGB_U7q3WWLL0PLB2-42" target="CvJrGB_U7q3WWLL0PLB2-84" edge="1">
           <mxGeometry x="-221.5" y="56.5" width="100" height="100" as="geometry">
             <mxPoint x="7010" y="2719.5200000000004" as="sourcePoint" />
             <mxPoint x="6759.869999999999" y="2250.480000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CvJrGB_U7q3WWLL0PLB2-86" value="TAKAKIOPSIDA" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;shadow=0;html=1;" parent="1" vertex="1">
-          <mxGeometry x="4925.369999999999" y="2666.570000000001" width="120" height="40" as="geometry" />
-        </mxCell>
+        <object label="TAKAKIOPSIDA" Características="Clase muy pequeña y poco conocida. Gametofitos simples con hojas diminutas y tallos rudimentarios." Diferenciación="Difíciles de distinguir; extremadamente simples, con estructuras reducidas." id="CvJrGB_U7q3WWLL0PLB2-86">
+          <mxCell style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;shadow=0;html=1;" parent="1" vertex="1">
+            <mxGeometry x="4925.369999999999" y="2666.570000000001" width="120" height="40" as="geometry" />
+          </mxCell>
+        </object>
         <mxCell id="CvJrGB_U7q3WWLL0PLB2-87" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#82b366;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;" parent="1" source="CvJrGB_U7q3WWLL0PLB2-42" target="CvJrGB_U7q3WWLL0PLB2-86" edge="1">
           <mxGeometry x="-221.5" y="56.5" width="100" height="100" as="geometry">
             <mxPoint x="5474.98" y="2490.770000000001" as="sourcePoint" />
@@ -409,30 +425,38 @@
             <mxPoint x="5369.98" y="2535.770000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CvJrGB_U7q3WWLL0PLB2-89" value="SPHAGNOPSIDA" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;shadow=0;html=1;" parent="1" vertex="1">
-          <mxGeometry x="4856.26" y="2396.9800000000005" width="120" height="40" as="geometry" />
-        </mxCell>
+        <object label="SPHAGNOPSIDA" Características="Tienen hojas formadas por células vivas y muertas; estas últimas almacenan agua. Gametofitos densos y almohadillados. Esporangios esféricos que liberan esporas mediante un mecanismo explosivo." Diferenciación="Musgos esponjosos, típicos de turberas. Su capacidad de retener agua los hace únicos." id="CvJrGB_U7q3WWLL0PLB2-89">
+          <mxCell style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;shadow=0;html=1;" parent="1" vertex="1">
+            <mxGeometry x="4856.26" y="2396.9800000000005" width="120" height="40" as="geometry" />
+          </mxCell>
+        </object>
         <mxCell id="CvJrGB_U7q3WWLL0PLB2-90" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#82b366;html=1;exitX=0.948;exitY=0.725;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;" parent="1" source="CvJrGB_U7q3WWLL0PLB2-42" target="CvJrGB_U7q3WWLL0PLB2-91" edge="1">
           <mxGeometry x="-221.5" y="56.5" width="100" height="100" as="geometry">
             <mxPoint x="5362.98" y="2498.770000000001" as="sourcePoint" />
             <mxPoint x="5379.98" y="2525.770000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CvJrGB_U7q3WWLL0PLB2-91" value="ANDREAEOPSIDA" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;shadow=0;html=1;" parent="1" vertex="1">
-          <mxGeometry x="5139.880000000001" y="2521.3400000000006" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="CvJrGB_U7q3WWLL0PLB2-92" value="TETRAPHIDOPSIDA" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;shadow=0;html=1;" parent="1" vertex="1">
-          <mxGeometry x="5516.259999999998" y="2402.5100000000007" width="120" height="40" as="geometry" />
-        </mxCell>
+        <object label="ANDREAEOPSIDA" Características="Crecen en rocas expuestas (granito). Tienen esporangios negros que se abren por hendiduras longitudinales, no por una tapa." Diferenciación="Reconocibles por sus esporangios negros y hábitat en rocas." id="CvJrGB_U7q3WWLL0PLB2-91">
+          <mxCell style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;shadow=0;html=1;" parent="1" vertex="1">
+            <mxGeometry x="5139.880000000001" y="2521.3400000000006" width="120" height="40" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="TETRAPHIDOPSIDA" Características="Esporangios con cuatro dientes grandes en el peristoma (estructura que rodea la abertura del esporangio)." Diferenciación="Únicos por su peristoma con cuatro dientes evidentes." id="CvJrGB_U7q3WWLL0PLB2-92">
+          <mxCell style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;shadow=0;html=1;" parent="1" vertex="1">
+            <mxGeometry x="5516.259999999998" y="2402.5100000000007" width="120" height="40" as="geometry" />
+          </mxCell>
+        </object>
         <mxCell id="CvJrGB_U7q3WWLL0PLB2-93" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#82b366;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;" parent="1" source="CvJrGB_U7q3WWLL0PLB2-42" target="CvJrGB_U7q3WWLL0PLB2-92" edge="1">
           <mxGeometry x="-221.5" y="56.5" width="100" height="100" as="geometry">
             <mxPoint x="5474.98" y="2490.770000000001" as="sourcePoint" />
             <mxPoint x="5446.98" y="2565.770000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CvJrGB_U7q3WWLL0PLB2-94" value="POLYTRICHOPSIDA" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;shadow=0;html=1;" parent="1" vertex="1">
-          <mxGeometry x="5462.07" y="2646.7400000000007" width="160" height="39" as="geometry" />
-        </mxCell>
+        <object label="POLYTRICHOPSIDA" Características="Gametofitos robustos con hojas multicapas y nervadura central prominente. Esporangios con capuchón piloso." Diferenciación="Musgos grandes y erectos, con hojas más rígidas y nervadas." id="CvJrGB_U7q3WWLL0PLB2-94">
+          <mxCell style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;shadow=0;html=1;" parent="1" vertex="1">
+            <mxGeometry x="5462.07" y="2646.7400000000007" width="160" height="39" as="geometry" />
+          </mxCell>
+        </object>
         <mxCell id="CvJrGB_U7q3WWLL0PLB2-95" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#82b366;html=1;exitX=0.957;exitY=0.254;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;fillColor=#d5e8d4;" parent="1" source="CvJrGB_U7q3WWLL0PLB2-42" target="CvJrGB_U7q3WWLL0PLB2-94" edge="1">
           <mxGeometry x="-221.5" y="56.5" width="100" height="100" as="geometry">
             <mxPoint x="5463.98" y="2501.770000000001" as="sourcePoint" />
@@ -1703,7 +1727,7 @@
             <mxPoint x="24476.75" y="3096.9700000000003" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <object label="JUNGERMANNIOPSIDA" Características="" Diferenciación="" id="CvJrGB_U7q3WWLL0PLB2-383">
+        <object label="JUNGERMANNIOPSIDA" Características="Incluye la mayoría de las hepáticas foliosas y algunas talosas simples. Las hepáticas foliosas tienen hojas pequeñas dispuestas en tres filas y sin nervaduras. No tienen cámaras de aire ni estructuras reproductivas elevadas." Diferenciación=" A simple vista parecen musgos con hojas simples y pequeñas. En el caso de los talos, son lisos y menos complejos que los de Marchantiopsida." id="CvJrGB_U7q3WWLL0PLB2-383">
           <mxCell style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;shadow=0;html=1;" parent="1" vertex="1">
             <mxGeometry x="1571.8800000000015" y="2653.870000000001" width="160" height="40" as="geometry" />
           </mxCell>
@@ -13759,7 +13783,7 @@
         <mxCell id="ohZdkgHMvIkcHxuLQ3zA-11" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#82b366;strokeWidth=5;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="14477.849999999999" y="2476.6599999999994" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ohZdkgHMvIkcHxuLQ3zA-12" value="MESANDGIOSPERMAS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=15;fillColor=none;strokeColor=none;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+        <mxCell id="ohZdkgHMvIkcHxuLQ3zA-12" value="MESANGIOSPERMAS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=15;fillColor=none;strokeColor=none;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="14333.600000000002" y="2420.909999999999" width="235" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ohZdkgHMvIkcHxuLQ3zA-13" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#82b366;strokeWidth=5;fillColor=#d5e8d4;" parent="1" vertex="1">
