@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.9.0">
   <diagram name="Page-1" id="V7OUVoj_RXxbM-umgp2J">
-    <mxGraphModel dx="1467" dy="723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="15000" pageHeight="5000" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1760" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="15000" pageHeight="5000" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -146,7 +146,7 @@
         <mxCell id="CvJrGB_U7q3WWLL0PLB2-33" value="ALGAS ROJAS" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;align=center;strokeWidth=6;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="21946.75" y="2082.1600000000008" width="230" height="230" as="geometry" />
         </mxCell>
-        <object label="PTERIDOFITAS" Características="Los gametofitos son independientes y pequeños (prótalos) que surgen de esporas y producen gametos. El esporofito crece a partir del gametofito femenino fecundado. La fecundación depende del agua, y puede ocurrir en el propio gametofito o en otro cercano." Diferenciación="Liberan esporas (n)" id="CvJrGB_U7q3WWLL0PLB2-35">
+        <object label="PTERIDOFITAS" Características="Los gametofitos son independientes y pequeños (prótalos) que surgen de esporas y producen gametos. El esporofito crece a partir del gametofito femenino fecundado. La fecundación depende del agua, y puede ocurrir en el propio gametofito o en otro cercano." Diferenciación="Liberan esporas." id="CvJrGB_U7q3WWLL0PLB2-35">
           <mxCell style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;align=center;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;direction=south;rounded=1;" parent="1" vertex="1">
             <mxGeometry x="7760" y="1564.0300000000002" width="230" height="230" as="geometry" />
           </mxCell>
@@ -979,7 +979,7 @@
             <mxPoint x="15691.33" y="2538.2899999999986" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <object label="MAGNOLIDAS" Características="Clado basal dentro de las mesangiospermas.  Tienen flores con piezas dispuestas en espiral, estambres y carpelos poco diferenciados o fusionados, y hojas con venación reticulada. Su xilema incluye traqueidas, con vasos en desarrollo menos especializado." Diferenciación="Reconocibles por sus flores primitivas y piezas florales numerosas, junto con hojas de venación reticulada." id="CvJrGB_U7q3WWLL0PLB2-215">
+        <object label="MAGNOLIDAS" Características="Clado basal dentro de las mesangiospermas.  Tienen flores con piezas dispuestas en espiral, estambres y carpelos poco diferenciados o fusionados, y hojas con venación reticulada. Su xilema incluye traqueidas, con vasos en desarrollo menos especializado. Tienen polen monosulcado." Diferenciación="Reconocibles por sus flores primitivas y piezas florales numerosas, junto con hojas de venación reticulada." id="CvJrGB_U7q3WWLL0PLB2-215">
           <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=15;fillColor=none;strokeColor=none;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
             <mxGeometry x="15292.36" y="2518.4599999999987" width="185" height="30" as="geometry" />
           </mxCell>
@@ -13808,7 +13808,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <object label="&lt;span style=&quot;font-size: 15px; text-wrap: wrap;&quot;&gt;MONOCOTILEDONEAS&lt;/span&gt;" Características="Clase de plantas con un cotiledón en el embrión. Sus hojas tienen venación paralela, raíces fibrosas, y sus flores suelen tener partes en múltiplos de tres. Sus tejidos vasculares están dispersos en los tallos sin formar un anillo." Diferenciación="Se distinguen fácilmente por sus hojas de venación paralela y flores con estructuras en tríos." id="ohZdkgHMvIkcHxuLQ3zA-18">
+        <object label="&lt;span style=&quot;font-size: 15px; text-wrap: wrap;&quot;&gt;MONOCOTILEDONEAS&lt;/span&gt;" Características="Clase de plantas con un cotiledón en el embrión. Sus hojas tienen venación paralela, raíces fibrosas, y sus flores suelen tener partes en múltiplos de tres. Sus tejidos vasculares están dispersos en los tallos sin formar un anillo. Tienen polen monosulcado." Diferenciación="Se distinguen fácilmente por sus hojas de venación paralela y flores con estructuras en tríos." id="ohZdkgHMvIkcHxuLQ3zA-18">
           <mxCell style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;shadow=0;html=1;" parent="1" vertex="1">
             <mxGeometry x="13743.36" y="2940.6499999999996" width="175.89" height="40" as="geometry" />
           </mxCell>
@@ -13840,7 +13840,7 @@
             <mxPoint x="14360.019999999997" y="2885.99" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <object label="&lt;span style=&quot;font-size: 15px; text-wrap: wrap;&quot;&gt;EUDICOTILEDONEAS&lt;/span&gt;" Características="Clase de plantas con dos cotiledones en el embrión. Tienen hojas con venación reticulada, raíces pivotantes, y flores con partes en múltiplos de cuatro o cinco. Sus tejidos vasculares están organizados en anillos." Diferenciación="Reconocibles por su venación reticulada en hojas y flores con piezas en múltiplos de cuatro o cinco." id="ohZdkgHMvIkcHxuLQ3zA-28">
+        <object label="&lt;span style=&quot;font-size: 15px; text-wrap: wrap;&quot;&gt;EUDICOTILEDONEAS&lt;/span&gt;" Características="Clase de plantas con dos cotiledones en el embrión. Tienen hojas con venación reticulada, raíces pivotantes, y flores con partes en múltiplos de cuatro o cinco. Sus tejidos vasculares están organizados en anillos. Polen tricolpado." Diferenciación="Reconocibles por su venación reticulada en hojas y flores con piezas en múltiplos de cuatro o cinco." id="ohZdkgHMvIkcHxuLQ3zA-28">
           <mxCell style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;shadow=0;html=1;" parent="1" vertex="1">
             <mxGeometry x="15315.93" y="3265.16" width="174.88" height="40" as="geometry" />
           </mxCell>
