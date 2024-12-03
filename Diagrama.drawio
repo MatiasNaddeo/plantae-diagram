@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.1">
   <diagram name="Page-1" id="V7OUVoj_RXxbM-umgp2J">
-    <mxGraphModel dx="1467" dy="723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="15000" pageHeight="5000" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1257" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="15000" pageHeight="5000" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -172,7 +172,7 @@
             <mxGeometry x="3526.1199999999994" y="1488.4900000000002" width="120" height="30" as="geometry" />
           </mxCell>
         </object>
-        <object label="HEPATICAS" Características="(Marchantiophyta)  Pueden ser talosas o folioseas. Los anteridios y arquegonios están en los anteridióforos y arquegonióforos. Los esporangios no tienen columela. No tienen estomas en el esporofito; solo tienen poros simples para el intercambio de gases. Utilizan eláteres, células especializadas que ayudan en la dispersión de esporas al secarse. Tienen rizoides unicelulares." Diferenciación="Si la planta es aplanada como una cinta (talosa) o tiene hojas dispuestas en dos filas con un esporofito menos evidente, es una hepática." id="CvJrGB_U7q3WWLL0PLB2-40">
+        <object label="HEPATICAS" Características="(Marchantiophyta)  Pueden ser talosas o folioseas. Anteridióforos y arquegonióforos (solo talosas). Los esporangios no tienen columela. Esporofito sin estomas y no puede hacer la fotosíntesis. Utilizan eláteres. Tienen rizoides unicelulares. Son muy dorsiventrales. Trigonos en los filidos (solo foliosas). Oleocuerpos" Diferenciación="Si la planta es aplanada como una cinta (talosa) o tiene hojas dispuestas en dos filas con un esporofito menos evidente, es una hepática." id="CvJrGB_U7q3WWLL0PLB2-40">
           <mxCell style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;align=center;strokeWidth=6;fillColor=#d5e8d4;strokeColor=#82b366;direction=south;rounded=1;dashed=1;" parent="1" vertex="1">
             <mxGeometry x="2036.8800000000015" y="2165.100000000001" width="170" height="158.5" as="geometry" />
           </mxCell>
