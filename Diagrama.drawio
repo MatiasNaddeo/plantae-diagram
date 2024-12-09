@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="V7OUVoj_RXxbM-umgp2J">
-    <mxGraphModel dx="880" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="15000" pageHeight="5000" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="880" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="15000" pageHeight="5000" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -172,17 +172,17 @@
             <mxGeometry x="3526.1199999999994" y="1488.4900000000002" width="120" height="30" as="geometry" />
           </mxCell>
         </object>
-        <object label="HEPATICAS" Características="(Marchantiophyta)  Pueden ser talosas o folioseas. Anteridióforos y arquegonióforos (solo talosas). Los esporangios no tienen columela. Esporofito sin estomas y no puede hacer la fotosíntesis. Utilizan eláteres. Tienen rizoides unicelulares. Son muy dorsiventrales. Trigonos en los filidos (solo foliosas). Oleocuerpos" Diferenciación="Hay dos tipos, las talosas, que son aplanadas lobuladas, a veces con órganos que sobresalen como &quot;paraguas&quot;. O foliosas, tallos con hojas sin costa también aplanadas. Las hojas ubicadas en dos hileras transversalmente al tallo." id="CvJrGB_U7q3WWLL0PLB2-40">
+        <object label="HEPÁTICAS" Características="(Marchantiophyta)  Pueden ser talosas o foliosas. Los esporangios no tienen columela. Esporofito sin estomas y afotosintético. Utilizan eláteres. Tienen rizoides unicelulares. Muy dorsiventrales. Oleo cuerpos&#xa;Talosas: Anteridióforos y arquegonióforos, esporofito protegido.&#xa;Foliosas: Trígonos, anfigastrios, sin costa, perianto y perigonio (ginoecio) y periquecio, acrocárpicas. " Diferenciación="Hay dos tipos, las talosas, que son aplanadas lobuladas, a veces con órganos que sobresalen como &quot;paraguas&quot;. O foliosas, tallos con hojas sin costa también aplanadas. Las hojas ubicadas en dos hileras transversalmente al tallo." id="CvJrGB_U7q3WWLL0PLB2-40">
           <mxCell style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;align=center;strokeWidth=6;fillColor=#d5e8d4;strokeColor=#82b366;direction=south;rounded=1;dashed=1;" parent="1" vertex="1">
             <mxGeometry x="2036.8800000000015" y="2165.100000000001" width="170" height="158.5" as="geometry" />
           </mxCell>
         </object>
-        <object label="ANTOCEROS" Características="(Anthocerotophyta) Son talosas. Los esporofitos tienen una columela y liberan esporas gradual y asincronamente. Poseen estomas en el esporofito. Sin seta. Tienen cavidades esquizogenas mucilaginosas donde forman simbiosis únicas con cianobacterias (género Nostoc), lo que les permite fijar nitrógeno. Tienen cloroplastos lenticulares con pirenoides, algo raro en plantas terrestres. Tienen rizoides unicelulares. Dorsiventrales. Pseudoeláteres." Diferenciación="Si la planta tiene una estructura aplanada y un esporofito en forma de cuerno, es un antocero." id="CvJrGB_U7q3WWLL0PLB2-41">
+        <object label="ANTOCEROS" Características="(Anthocerotophyta) Son talosas. Los esporofitos tienen una columela y liberan esporas gradual y asíncronamente. Esporofito con estomas y fotosintético. Sin seta. Tienen cavidades esquizógenas mucilaginosas donde forman simbiosis únicas con cianobacterias (género Nostoc), lo que les permite fijar nitrógeno. Tienen cloroplastos lenticulares con pirenoides. Tienen rizoides unicelulares. Muy dorsiventrales. Pseudoeláteres. Cámaras anteridiales. Involucro." Diferenciación="Si la planta tiene una estructura aplanada y un esporofito en forma de cuerno, es un antocero." id="CvJrGB_U7q3WWLL0PLB2-41">
           <mxCell style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;align=center;strokeWidth=6;fillColor=#d5e8d4;strokeColor=#82b366;direction=south;rounded=1;dashed=1;" parent="1" vertex="1">
             <mxGeometry x="3521.6200000000013" y="2164.5900000000006" width="170" height="158.5" as="geometry" />
           </mxCell>
         </object>
-        <object label="MUSGOS" Características="Son foliosas. Rizoides pluricelulares. Poseen una columela. Parafisos. Tienen estomas funcionales en la cápsula del esporofito. Tienen peristoma. Filidios con costa. Cordón central e hialodermis." Diferenciación="Si la planta tiene estructuras pequeñas y verticales con hojas (con costa) en espiral y un esporofito con cápsula elevada, es un musgo." id="CvJrGB_U7q3WWLL0PLB2-42">
+        <object label="MUSGOS" Características="Son foliosas. Rizoides pluricelulares. Poseen una columela. Parafisos. Estomas y capacidad fotosintética parcial. Tienen peristoma. Filidios con costa. Cordón central. Filidios en tres o más hileras ubicados helicoidalmente. Perigonio y periquecio." Diferenciación="Si la planta tiene estructuras pequeñas y verticales con hojas (con costa) en espiral y un esporofito con cápsula elevada, es un musgo." id="CvJrGB_U7q3WWLL0PLB2-42">
           <mxCell style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;align=center;strokeWidth=6;fillColor=#d5e8d4;strokeColor=#82b366;direction=south;rounded=1;dashed=1;" parent="1" vertex="1">
             <mxGeometry x="5252.3499999999985" y="2164.4300000000007" width="170" height="158.5" as="geometry" />
           </mxCell>
