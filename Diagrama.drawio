@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.7">
   <diagram name="Page-1" id="V7OUVoj_RXxbM-umgp2J">
-    <mxGraphModel dx="1773" dy="845" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="15000" pageHeight="5000" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1330" dy="507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="15000" pageHeight="5000" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13747,22 +13747,22 @@
         <mxCell id="ohZdkgHMvIkcHxuLQ3zA-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#82b366;strokeWidth=5;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="3596.6199999999994" y="1561.0299999999997" width="20" height="20" as="geometry" />
         </mxCell>
-        <object label="CYCADOPHYTA" Características="Son dioicas con conos grandes para la reproducción. Producen espermatozoides flagelados visibles al microscopio, una característica ancestral." Diferenciación="Tienen un aspecto similar a palmeras pero no están relacionadas. Poseen hojas grandes y pinnadas dispuestas en un único tronco grueso." id="ohZdkgHMvIkcHxuLQ3zA-5">
+        <object label="CYCADOPHYTA" Características="Dióicas. Conos grandes. Esperma flagelado visible al microscopio, una característica ancestral. Hojas pinnadas. Solo traqueidas." Diferenciación="Tienen un aspecto similar a palmeras pero no están relacionadas. Poseen hojas grandes y pinnadas dispuestas en un único tronco grueso." id="ohZdkgHMvIkcHxuLQ3zA-5">
           <mxCell style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;align=center;strokeWidth=6;fillColor=#d5e8d4;strokeColor=#82b366;direction=south;rounded=1;dashed=1;" parent="1" vertex="1">
             <mxGeometry x="10548.25" y="2331.8200000000006" width="190" height="190" as="geometry" />
           </mxCell>
         </object>
-        <object label="GINKGOPHYTA" Características="Árbol caducifolio. Dioico. Con espermatozoides flagelados." Diferenciación="Una sola especie viva. Es un árbol con hojas en forma de abanico. Con semillas rodeadas por una cubierta carnosa que tiene un olor fuerte y desagradable." id="ohZdkgHMvIkcHxuLQ3zA-6">
+        <object label="GINKGOPHYTA" Características="Hojas bilobuladas. Esperma flagelado. Semilla fétida. Solo traqueidas. Árbol caducifolio." Diferenciación="Una sola especie (Ginkgo biloba). Es un árbol con hojas en forma de abanico. Con semillas rodeadas por una cubierta carnosa que tiene un olor fuerte y desagradable. Amarillean en otoño" id="ohZdkgHMvIkcHxuLQ3zA-6">
           <mxCell style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;align=center;strokeWidth=6;fillColor=#d5e8d4;strokeColor=#82b366;direction=south;rounded=1;dashed=1;" parent="1" vertex="1">
             <mxGeometry x="9993.25" y="2179.7800000000007" width="190" height="190" as="geometry" />
           </mxCell>
         </object>
-        <object label="CONIFEROPHYTA" Características="Son monoicas o dioicas, con conos leñosos o escamosos que contienen las semillas. No tienen espermatozoides móviles; el polen llega al óvulo a través de un tubo polínico." Diferenciación="Incluyen árboles y arbustos con hojas aciculares o en forma de escama. Adaptadas a climas fríos o templados, con madera blanda rica en resina. Incluye plantas como pinos, abetos, cipreses, y secuoyas. " id="ohZdkgHMvIkcHxuLQ3zA-7">
+        <object label="CONIFEROPHYTA" Características="Son monoicas o dioicas, con conos leñosos o escamosos que contienen las semillas. No tienen espermatozoides móviles; el polen llega al óvulo a través de un tubo polínico. Solo traqueidas." Diferenciación="Incluyen árboles y arbustos con hojas aciculares o en forma de escama. Adaptadas a climas fríos o templados, con madera blanda rica en resina. Incluye plantas como pinos, abetos, cipreses, y secuoyas. " id="ohZdkgHMvIkcHxuLQ3zA-7">
           <mxCell style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;align=center;strokeWidth=6;fillColor=#d5e8d4;strokeColor=#82b366;direction=south;rounded=1;dashed=1;" parent="1" vertex="1">
             <mxGeometry x="10213.25" y="2409.9700000000003" width="190" height="190" as="geometry" />
           </mxCell>
         </object>
-        <object label="GNETOPHYTA" Características="Son las únicas gimnospermas que poseen vasos verdaderos en el xilema, Pueden ser monoicas o dioicas." Diferenciación="A veces se parecen más a las angiospermas que a otras gimnospermas. Tienen estructuras reproductivas parecidas a flores, pero no son angiospermas." id="ohZdkgHMvIkcHxuLQ3zA-8">
+        <object label="GNETOPHYTA" Características="Son las únicas gimnospermas que poseen vasos verdaderos en el xilema, sin traqueidas. Pueden ser monoicas o dioicas. Sin anteridios. A veces sin arquegonios. Estructuras tipo flor. Polinización a veces por insectos." Diferenciación="A veces se parecen más a las angiospermas que a otras gimnospermas. Tienen estructuras reproductivas parecidas a flores.&#xa;Gnetum: hojas anchas.&#xa;Ephedra: tallos verdes segmentados.&#xa;Welwitschia: dos hojas enormes arrastradas. Raras, aspecto inusual." id="ohZdkgHMvIkcHxuLQ3zA-8">
           <mxCell style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;align=center;strokeWidth=6;fillColor=#d5e8d4;strokeColor=#82b366;direction=south;rounded=1;dashed=1;" parent="1" vertex="1">
             <mxGeometry x="10783.619999999999" y="2183.3400000000015" width="190" height="190" as="geometry" />
           </mxCell>
