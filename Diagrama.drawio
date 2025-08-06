@@ -13773,7 +13773,7 @@
             <mxPoint x="12834.970000000001" y="2607.2400000000007" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <object label="MAGNOLIOPHYTA" Características="Semilla encerrada en fruto. Ovario cerrado. Flor verdadera con sépalos, pétalos, estambres y carpelos. Presencia de doble fecundación. Gametofitos muy reducidos. Tienen vasos en el xilema. Arquegonios ausentes. Dioico." Diferenciación="Tiene flores. Produce fruto. Hojas variadas, a menudo anchas y planas. Presente en casi todos los ecosistemas. Gran diversidad de formas (árboles, hierbas, arbustos, lianas). Más comunes que las gimnospermas." id="ohZdkgHMvIkcHxuLQ3zA-10">
+        <object label="MAGNOLIOPHYTA" Características="Semilla encerrada en fruto. Ovario cerrado. Flor verdadera con sépalos, pétalos, estambres y carpelos. Presencia de doble fecundación. Gametofitos muy reducidos. Tienen vasos en el xilema (todas menos algunas basales). Arquegonios ausentes. Dioico." Diferenciación="Tiene flores. Produce fruto. Hojas variadas, a menudo anchas y planas. Presente en casi todos los ecosistemas. Gran diversidad de formas (árboles, hierbas, arbustos, lianas). Más comunes que las gimnospermas." id="ohZdkgHMvIkcHxuLQ3zA-10">
           <mxCell style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;align=center;strokeWidth=6;fillColor=#d5e8d4;strokeColor=#82b366;direction=south;rounded=1;dashed=1;" parent="1" vertex="1">
             <mxGeometry x="12980.84" y="2212.510000000001" width="210" height="210" as="geometry" />
           </mxCell>
